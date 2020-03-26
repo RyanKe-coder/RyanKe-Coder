@@ -5,7 +5,7 @@
 
 2.  Hand Writing is a python program which is using QT framework to act as a form style writing application. 
 
-3.  Arduino LED blink.
+3.  Arduino LED blink is a arduino experiment program to control LED by arduino.
 
 4.   WindowsFormApp4 is a UART serial port control LED test program. 
 
